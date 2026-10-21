@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: fddf489b724229c41bb4da0403136939
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3575295078150329036
+    second: Seeker_Void_JumpFall_30x30_28f_0
+  - first:
+      213: 5666059146395226225
+    second: Seeker_Void_JumpFall_30x30_28f_1
+  - first:
+      213: -8748485411560009457
+    second: Seeker_Void_JumpFall_30x30_28f_2
+  - first:
+      213: 8182177015444143186
+    second: Seeker_Void_JumpFall_30x30_28f_3
+  - first:
+      213: 7193671414676467542
+    second: Seeker_Void_JumpFall_30x30_28f_4
+  - first:
+      213: 3570502580628613916
+    second: Seeker_Void_JumpFall_30x30_28f_5
+  - first:
+      213: 6240036545441772308
+    second: Seeker_Void_JumpFall_30x30_28f_6
+  - first:
+      213: -5539260329639776008
+    second: Seeker_Void_JumpFall_30x30_28f_7
+  - first:
+      213: 8236883905671987635
+    second: Seeker_Void_JumpFall_30x30_28f_8
+  - first:
+      213: 5873005538555485695
+    second: Seeker_Void_JumpFall_30x30_28f_9
+  - first:
+      213: 4504067108744660999
+    second: Seeker_Void_JumpFall_30x30_28f_10
+  - first:
+      213: -9151813967313918433
+    second: Seeker_Void_JumpFall_30x30_28f_11
+  - first:
+      213: -1674722056118053498
+    second: Seeker_Void_JumpFall_30x30_28f_12
+  - first:
+      213: -3570445183887118568
+    second: Seeker_Void_JumpFall_30x30_28f_13
+  - first:
+      213: 8189185369786292662
+    second: Seeker_Void_JumpFall_30x30_28f_14
+  - first:
+      213: 2538620296948921076
+    second: Seeker_Void_JumpFall_30x30_28f_15
+  - first:
+      213: 8200462495450529293
+    second: Seeker_Void_JumpFall_30x30_28f_16
+  - first:
+      213: -2874464148188991955
+    second: Seeker_Void_JumpFall_30x30_28f_17
+  - first:
+      213: 192419882908645572
+    second: Seeker_Void_JumpFall_30x30_28f_18
+  - first:
+      213: -4557433001588909355
+    second: Seeker_Void_JumpFall_30x30_28f_19
+  - first:
+      213: 4355959390555762454
+    second: Seeker_Void_JumpFall_30x30_28f_20
+  - first:
+      213: 7614253402125306486
+    second: Seeker_Void_JumpFall_30x30_28f_21
+  - first:
+      213: -1221842603882320462
+    second: Seeker_Void_JumpFall_30x30_28f_22
+  - first:
+      213: 5504292332142055824
+    second: Seeker_Void_JumpFall_30x30_28f_23
+  - first:
+      213: -7597115491134954104
+    second: Seeker_Void_JumpFall_30x30_28f_24
+  - first:
+      213: -4386325993614934279
+    second: Seeker_Void_JumpFall_30x30_28f_25
+  - first:
+      213: 4763382395411217676
+    second: Seeker_Void_JumpFall_30x30_28f_26
+  - first:
+      213: 22307216407620556
+    second: Seeker_Void_JumpFall_30x30_28f_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43da5a3b110026ec0800000000000000
+      internalID: -3575295078150329036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1709d3906c2e1ae40800000000000000
+      internalID: 5666059146395226225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f015741aed2279680800000000000000
+      internalID: -8748485411560009457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cf9eef4aeec8170800000000000000
+      internalID: 8182177015444143186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f2ca6b90e05d360800000000000000
+      internalID: 7193671414676467542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bebf30e29fc8130800000000000000
+      internalID: 3570502580628613916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413338c4d20199650800000000000000
+      internalID: 6240036545441772308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0786514189023b0800000000000000
+      internalID: -5539260329639776008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b106b5754a4f4270800000000000000
+      internalID: 8236883905671987635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd5089bb6b118150800000000000000
+      internalID: 5873005538555485695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080f3dfb29a18e30800000000000000
+      internalID: 4504067108744660999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16abc36fa93ef080800000000000000
+      internalID: -9151813967313918433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685529bb92132c8e0800000000000000
+      internalID: -1674722056118053498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f6764b50b337ec0800000000000000
+      internalID: -3570445183887118568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b910f5a4b4d5a170800000000000000
+      internalID: 8189185369786292662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2bc3bb5bdfa3320800000000000000
+      internalID: 2538620296948921076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0efd331135edc170800000000000000
+      internalID: 8200462495450529293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e6997361adb18d0800000000000000
+      internalID: -2874464148188991955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8fd703ddc9ba200800000000000000
+      internalID: 192419882908645572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da96a4d4deb0c0c0800000000000000
+      internalID: -4557433001588909355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f6a12acf9737c30800000000000000
+      internalID: 4355959390555762454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a0d7f80234ba960800000000000000
+      internalID: 7614253402125306486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_22
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bde72810a42b0fe0800000000000000
+      internalID: -1221842603882320462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_23
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091db3d86bc236c40800000000000000
+      internalID: 5504292332142055824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885a84946bf919690800000000000000
+      internalID: -7597115491134954104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_25
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fef481afb3a023c0800000000000000
+      internalID: -4386325993614934279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_26
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db5d71d0fea1240800000000000000
+      internalID: 4763382395411217676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeker_Void_JumpFall_30x30_28f_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb67ed8b404f4000800000000000000
+      internalID: 22307216407620556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0f5facdd9c568147a5b310a57967fe8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":30.0,"y":30.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Seeker_Void_JumpFall_30x30_28f_0: -3575295078150329036
+      Seeker_Void_JumpFall_30x30_28f_1: 5666059146395226225
+      Seeker_Void_JumpFall_30x30_28f_10: 4504067108744660999
+      Seeker_Void_JumpFall_30x30_28f_11: -9151813967313918433
+      Seeker_Void_JumpFall_30x30_28f_12: -1674722056118053498
+      Seeker_Void_JumpFall_30x30_28f_13: -3570445183887118568
+      Seeker_Void_JumpFall_30x30_28f_14: 8189185369786292662
+      Seeker_Void_JumpFall_30x30_28f_15: 2538620296948921076
+      Seeker_Void_JumpFall_30x30_28f_16: 8200462495450529293
+      Seeker_Void_JumpFall_30x30_28f_17: -2874464148188991955
+      Seeker_Void_JumpFall_30x30_28f_18: 192419882908645572
+      Seeker_Void_JumpFall_30x30_28f_19: -4557433001588909355
+      Seeker_Void_JumpFall_30x30_28f_2: -8748485411560009457
+      Seeker_Void_JumpFall_30x30_28f_20: 4355959390555762454
+      Seeker_Void_JumpFall_30x30_28f_21: 7614253402125306486
+      Seeker_Void_JumpFall_30x30_28f_22: -1221842603882320462
+      Seeker_Void_JumpFall_30x30_28f_23: 5504292332142055824
+      Seeker_Void_JumpFall_30x30_28f_24: -7597115491134954104
+      Seeker_Void_JumpFall_30x30_28f_25: -4386325993614934279
+      Seeker_Void_JumpFall_30x30_28f_26: 4763382395411217676
+      Seeker_Void_JumpFall_30x30_28f_27: 22307216407620556
+      Seeker_Void_JumpFall_30x30_28f_3: 8182177015444143186
+      Seeker_Void_JumpFall_30x30_28f_4: 7193671414676467542
+      Seeker_Void_JumpFall_30x30_28f_5: 3570502580628613916
+      Seeker_Void_JumpFall_30x30_28f_6: 6240036545441772308
+      Seeker_Void_JumpFall_30x30_28f_7: -5539260329639776008
+      Seeker_Void_JumpFall_30x30_28f_8: 8236883905671987635
+      Seeker_Void_JumpFall_30x30_28f_9: 5873005538555485695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
