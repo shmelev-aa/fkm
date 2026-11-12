@@ -12,6 +12,7 @@ public class Canon : MonoBehaviour
     [SerializeField]GameObject bulletPrefab;
     [SerializeField] Transform shootPoint;
     [SerializeField] Animator anim;
+    [SerializeField] Vector2 bulletDirection;
 
     void Awake(){
         cooldown = delay;
@@ -31,7 +32,7 @@ public class Canon : MonoBehaviour
 
     void Shoot(){
         GameObject bullet = Instantiate(bulletPrefab,shootPoint.position, Quaternion.identity);
-        
+        bullet.GetComponent<Bullet>().Launch(bulletDirection);
         
     }
 
